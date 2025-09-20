@@ -17,5 +17,3 @@ class Pessoa:
     def salvar(self):
         print(f"Foi salvo o  usuário {self.nome} {self.nome} de idade {self.nome} foi salvo com sucesso!")
 
-
-    
